@@ -13,3 +13,12 @@ Simple application used to count time spent on certain activities.
         - background - counter not visible
         - foreground - counter visible in console session
 
+2. Basic structure (concept)
+    main.py - main source file
+    timer.py - basic functions used to count time 
+    projects.py - functions used to create and manage projects
+    pomodoro.py - functions used in 'pomodoro' mode
+    cli.py - functions used to parse commands from user
+    visualize.py - functions used for visualization (in foreground mode)
+    logs.py - function used to logging (for debuggins)
+
